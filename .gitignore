@@ -1,0 +1,14 @@
+# Byte-compiled / Object files
+bin/
+*.class
+
+# Node / Scratch files
+node_modules/
+my-project/
+package-lock.json
+
+# IDE & OS files
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
